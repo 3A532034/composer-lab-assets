@@ -10,7 +10,7 @@ try {
     echo  "Error: ".$e->getMessage()."＜br/＞";
     die();
 }
-
+echo Carbon::createFromFormat('Y-m-d H', now())->toDateTimeString();
 ?>
 <!DOCTYPE html>
 <html lang="en">
