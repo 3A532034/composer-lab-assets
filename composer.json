@@ -1,0 +1,10 @@
+{
+    "name": "anriaru/composer-lab-assets",
+    "authors": [
+        {
+            "name": "吳駿松",
+            "email": "jo32229hn@gmail.com"
+        }
+    ],
+    "require": {}
+}
